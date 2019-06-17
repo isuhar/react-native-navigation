@@ -1,11 +1,11 @@
 {
   "name": "react-native-navigation",
-  "version": "2.21.0",
+  "version": "2.21.0-megaplan.0",
   "description": "React Native Navigation - truly native navigation for iOS and Android",
   "license": "MIT",
   "nativePackage": true,
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "http://npm.megoplan.ru"
   },
   "bugs": {
     "url": "https://github.com/wix/react-native-navigation/issues"
